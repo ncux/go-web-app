@@ -13,7 +13,7 @@ containers:
     repository: ncuxez/go-web-app
     pullPolicy: IfNotPresent
     # Overrides the image tag whose default is the chart appVersion.
-    tag: "10664344564"
+    tag: "10665807798"
   name: http
   containerPort: 8080
 
